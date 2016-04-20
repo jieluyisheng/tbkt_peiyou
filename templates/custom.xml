@@ -30,4 +30,15 @@
       <option name="OTHER" value="false" />
     </context>
   </template>
+  <template name="st" value="switch(true){&#10;    case:1&#10;            &#10;    break; &#10;    case:2 &#10;            &#10;    break;&#10;}" description="快速生成switch" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
+    </context>
+  </template>
 </templateSet>
