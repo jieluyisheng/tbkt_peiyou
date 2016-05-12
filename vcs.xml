@@ -18,6 +18,14 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="jieluyisheng" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@122.114.40.73:8850/TBKT_PAD/pad_wl_stu.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@122.114.40.73:8850/TBKT_PAD/pad_wl_tea.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\" />
