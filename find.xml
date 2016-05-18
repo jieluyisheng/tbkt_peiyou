@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'pad_math_sync_stu'" />
-    <option name="defaultScopeName" value="Module 'pad_math_sync_stu'" />
-    <option name="SEARCH_SCOPE" value="Module 'pad_math_sync_stu'" />
+    <option name="customScope" value="selection" />
+    <option name="defaultScopeName" value="selection" />
+    <option name="SEARCH_SCOPE" value="selection" />
   </component>
 </application>
